@@ -18,5 +18,5 @@ personas.
 
 <div style="text-align: center;">
   <img src="images/Figura_4.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 1. Esquema del concepto de bagging.</p>
+  <p><em><strong>Figura 1.</strong> Esquema del concepto de bagging.</em></p>
 </div>

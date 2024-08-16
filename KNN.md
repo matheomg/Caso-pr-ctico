@@ -13,6 +13,6 @@ vecinos se puede predecir Y a partir de las Y1, Y2, …, Yk de sus k vecinos.
 
 <div style="text-align: center;">
   <img src="images/Figura_2.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 2. KNN con K=3</p>
+  <p><em><strong>Figura 2.</strong> KNN con K=3</em> </p>
 </div>
 

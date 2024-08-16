@@ -14,5 +14,5 @@ que se denomina hojas, con fondo blanco se muestran los nodos, en este caso, hab
 
 <div style="text-align: center;">
   <img src="images/Figura_3.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 3. Ejemplo de separación de datos de un árbol de decisión regresión.</p>
+  <p><em> <strong>Figura 3.</strong> Ejemplo de separación de datos de un árbol de decisión regresión.</em></p>
 </div>

@@ -7,5 +7,5 @@ muestra un ejemplo de cambio de dimensión de un espacio de dos dimensiones a un
 
 <div style="text-align: center;">
   <img src="images/Figura_6.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 6. Concepto de kernel trick en SVM.</p>
+  <p><em><strong>Figura 6.</strong> Concepto de kernel trick en SVM.</em></p>
 </div>
