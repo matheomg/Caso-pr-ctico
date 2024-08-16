@@ -1,6 +1,6 @@
 # Aprendizaje supervisado
 
-*Autores: Matheo Morales, Vicky Mina y Jean Carlos Muñoz  
+*Autores: Matheo Morales, Vicky Mina y Jean Carlos Muñoz*  
 *Fecha: 15 de agosto de 2024*
 
 Los principales algoritmos de aprendizaje supervisado basados en problemas de regresión son **regresion Lineal**, **K-vecinos mas cercanos**, **árboles de decisión**, **Random Forest**, **Algoritmos de boosting** y **Máquinas de soporte vectorial**. 
