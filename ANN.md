@@ -25,6 +25,4 @@ Capas Ocultas: Son las capas intermedias entre la capa de entrada y la capa de s
 - Pesos (Weights): Cada conexión entre neuronas tiene un peso asociado, que ajusta la influencia de una neurona en la siguiente. Los pesos se actualizan durante el entrenamiento para mejorar la precisión del modelo.
 - Sesgos (Biases): Los sesgos son términos adicionales que se suman a la entrada ponderada de una neurona. Permiten que la red se ajuste mejor a los datos al proporcionar un umbral adicional.
 
-![ANN_IMAGE](images/Figura_7.png)
-
 By: Jean Carlos Muñoz
