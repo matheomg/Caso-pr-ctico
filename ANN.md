@@ -1,13 +1,30 @@
-**ANN**
+**ANN (Artificial Neural Network)**
 
-**1. Preparación de Datos**
+ Es un modelo computacional inspirado en la estructura y el funcionamiento del cerebro humano. Las ANN son una de las técnicas más populares en el campo del aprendizaje automático y la inteligencia artificial. 
+ 
+ Aquí tienes una explicación detallada de sus componentes y funcionamiento:
 
-Recolección y Limpieza: Asegúrate de que tus datos estén limpios y libres de errores. Esto incluye manejar valores faltantes, eliminar duplicados y corregir datos erróneos.
-Preprocesamiento: Escala o normaliza los datos para que estén en un rango adecuado. Técnicas comunes incluyen la normalización min-max o la estandarización (transformar a una media de 0 y una desviación estándar de 1).
+**Componentes Clave de una ANN**
 
-**2. División de Datos**
 
-Conjunto de Entrenamiento y Prueba: Divide tu conjunto de datos en al menos dos partes: uno para entrenar el modelo y otro para evaluar su rendimiento. Una división común es 80% entrenamiento y 20% prueba.
-Validación Cruzada: Para una evaluación más robusta, puedes usar validación cruzada k-fold, donde el conjunto de datos se divide en k partes, y cada una se usa tanto para entrenar como para evaluar el modelo en diferentes iteraciones.
+- *Neuronas o Unidades:*
 
-![ANN_IMAGE](images/Figura-3-Regresion-lineal-entre-fotosintesis-medida-y-simulada-con-la-ANN-para-todo-el.png)
+- Neuronas: Son los nodos individuales en una red neuronal. Cada neurona recibe entradas, las procesa y produce una salida. Las neuronas en una ANN están organizadas en capas.
+- Función de Activación: Cada neurona aplica una función de activación a la suma ponderada de sus entradas para producir una salida. Las funciones de activación comunes incluyen Sigmoid, ReLU (Rectified Linear Unit) y Tanh.
+
+
+- *Capas:*
+
+- Capa de Entrada: La capa inicial que recibe los datos de entrada. Cada nodo en esta capa representa una característica del conjunto de datos.
+Capas Ocultas: Son las capas intermedias entre la capa de entrada y la capa de salida. Las ANN pueden tener una o más capas ocultas. Cada capa oculta realiza transformaciones no lineales de las entradas.
+- Capa de Salida: La capa final que produce el resultado del modelo. En una clasificación binaria, suele haber una sola neurona con una función de activación sigmoide.
+
+
+- *Pesos y Sesgos:*
+
+- Pesos (Weights): Cada conexión entre neuronas tiene un peso asociado, que ajusta la influencia de una neurona en la siguiente. Los pesos se actualizan durante el entrenamiento para mejorar la precisión del modelo.
+- Sesgos (Biases): Los sesgos son términos adicionales que se suman a la entrada ponderada de una neurona. Permiten que la red se ajuste mejor a los datos al proporcionar un umbral adicional.
+
+![ANN_IMAGE](images/Figura_7.png)
+
+By: Jean Carlos Muñoz
