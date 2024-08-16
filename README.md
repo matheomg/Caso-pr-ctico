@@ -2,7 +2,7 @@
 
 Los principales algoritmos de aprendizaje supervisado basados en problemas de regresión son:
 
-- [Regresión lineal](<Regresión lineal.md>)
+ - [Regresión lineal](<Regresión lineal.md>) 
 
 - [K-vecinos más cercanos (KNN)](<KNN.md>)
 

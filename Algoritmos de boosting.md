@@ -1,4 +1,4 @@
-# Algoritmo de boosting
+# <u> Algoritmo de boosting </u>
 
 Por otro lado, dentro de los algoritmos ensamblados tenemos los algoritmos de boosting. Algunos ejemplos de estos algoritmos son el XGBoost o el AdaBoost.
 

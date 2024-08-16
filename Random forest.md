@@ -1,4 +1,4 @@
-# Random forest
+# <u> Random forest </u>
 
 Hasta ahora los modelos que se han presentado son modelos simples, es decir, no están formados por combinaciones de varios modelos. La combinación de
 modelos simples es un método muy utilizado en aprendizaje automático. En competiciones online como Kaggle son los que han demostrado ofrecer mejores

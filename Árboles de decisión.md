@@ -1,4 +1,4 @@
-# Árbol de decisión
+# <u>Árbol de decisión </u>
 
 Es un modelo de aprendizaje jerárquico que divide el espacio utilizando reglas de decisión. Es válido tanto para modelos de regresión como para
 modelos de clasificación.

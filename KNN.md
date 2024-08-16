@@ -1,4 +1,4 @@
-# K-vecinos más cercanos (KNN)
+# <u> K-vecinos más cercanos (KNN) </u>
 
 El algoritmo de k-vecinos más cercanos (K-nearest neighbors), generalmente conocido como KNN, es un modelo usado tanto para problemas de regresión como
 para problemas de clasificación.
