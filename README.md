@@ -11,3 +11,4 @@ Los principales algoritmos de aprendizaje supervisado basados en problemas de re
 |- [Algoritmos de boosting. XGBoost](<Algoritmos de boosting.md>)|
 |- [Máquina de soporte vectorial](<Máquina de soporte vectorial.md>)|
 
+En code se encuentra un ejercicio con la aplicación de la diferentes metodologías.
