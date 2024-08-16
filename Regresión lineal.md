@@ -17,5 +17,5 @@ más modernos, continúa siendo ampliamente usado.
 
 <div style="text-align: center;">
   <img src="images/Figura_1.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 1. Representación de una regresión lineal y sus errores.</p>
+  <p><em><strong>Figura 1.</strong> Representación de una regresión lineal y sus errores.</em></p>
 </div>
