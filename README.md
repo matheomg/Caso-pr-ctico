@@ -1,6 +1,6 @@
 # Aprendizaje supervisado
 
-Los principales algoritmos de aprendizaje supervisado basados en problemas de regresión son:
+Los principales algoritmos de aprendizaje supervisado basados en problemas de regresión son regresion Lineal, K-vecinos mas cercanos, árboles de decisión, Random Forest, Algoritmos de boosting y Máquinas de soporte vectorial. 
 
 | Tabla de algoritmos de aprendizaje supervisado|
 |-----------------------------------------------|
