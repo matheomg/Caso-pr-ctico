@@ -11,5 +11,5 @@ Poniendo un ejemplo, es como si al intentar resolver un problema se aprovechase 
 
 <div style="text-align: center;">
   <img src="images/Figura_5.png" alt="alt text" style="display: block; margin: 0 auto;">
-  <p>Figura 5. Esquema del concepto de boosting.</p>
+  <p><em> <strong>Figura 5.</strong> Esquema del concepto de boosting.</em></p>
 </div>
